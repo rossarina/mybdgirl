@@ -327,7 +327,7 @@ hr {
     background-color: #ffc0cb; /* Light pink */
     color: #880e4f;
     margin-top: 40px;
-    font-size: 0.9em;
+    font-size:12px;
     border-top-left-radius: 20% 10%;
     border-top-right-radius: 20% 10%;
     box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.05);
