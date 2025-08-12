@@ -3,8 +3,8 @@ body {
     font-family: 'Mitr', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #fce4ec; /* Light pink background */
-    color: #333;
+    background-color: #ffc1d2; /* Light pink background */
+    color: #d43c8d;
     line-height: 1.6;
 }
 
@@ -19,13 +19,13 @@ body {
 
 hr {
     border: none;
-    border-top: 1px dashed #ffb6c1; /* Pink dashed line */
+    border-top: 1px dashed #B0CBE8; /* Pink dashed line */
     margin: 40px 0;
 }
 
 /* Header (Hero Section) */
 .hero {
-    background: linear-gradient(135deg, #ff69b4, #ff85c1); /* Pink gradient */
+    background: linear-gradient(135deg, #ff9ccd, #F799B3); /* Pink gradient */
     color: white;
     text-align: center;
     padding: 80px 20px;
@@ -47,7 +47,7 @@ hr {
 
 /* Navbar */
 .navbar {
-    background-color: #ffc0cb; /* Light pink */
+    background-color: #ffd2e9; /* Light pink */
     padding: 15px 0;
     text-align: center;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
@@ -68,7 +68,7 @@ hr {
 
 .navbar ul li a {
     text-decoration: none;
-    color: #880e4f; /* Darker pink for text */
+    color: #d43c8d; /* Darker pink for text */
     font-weight: 500;
     font-size: 1.1em;
     transition: color 0.3s ease, transform 0.2s ease;
@@ -87,7 +87,7 @@ hr {
 
 .section h2 {
     font-size: 2.5em;
-    color: #ff69b4; /* Hot pink */
+    color: #B0CBE8; /* Hot pink */
     margin-bottom: 30px;
     position: relative;
     display: inline-block;
@@ -115,7 +115,7 @@ hr {
 }
 
 .gallery-item {
-    background-color: #fff0f5;
+    background-color: #daebff;
     border-radius: 12px;
     overflow: hidden;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -140,7 +140,7 @@ hr {
 .gallery-item p {
     padding: 15px 10px 0;
     font-size: 1.1em;
-    color: #555;
+    color: darkblue;
 }
 
 .story {
@@ -186,7 +186,7 @@ hr {
     padding: 14px 16px;
     transition: 0.3s;
     font-size: 1.1em;
-    color: #555;
+    color: #ffa1ba;
     font-family: 'Mitr', sans-serif;
     border-radius: 8px 8px 0 0; /* Corner radius for buttons */
 }
@@ -292,13 +292,13 @@ hr {
 
 #loveQuoteDisplay {
     font-size: 1.5em;
-    color: #d84357; /* Deeper pink for text */
+    color: #ff9ab5; /* Deeper pink for text */
     margin-bottom: 20px;
     font-weight: 500;
 }
 
 .cute-button {
-    background-color: #ff69b4; /* Hot pink */
+    background-color: #B0CBE8; /* Hot pink */
     color: white;
     padding: 12px 25px;
     border: none;
@@ -311,12 +311,12 @@ hr {
 }
 
 .cute-button:hover {
-    background-color: #ff85c1; /* Lighter pink on hover */
+    background-color: #8cb7e5; /* Lighter pink on hover */
     transform: translateY(-2px); /* Slight lift effect */
 }
 
 .cute-button:active {
-    background-color: #e05c9a; /* Darker pink on click */
+    background-color: #5c9ee4; /* Darker pink on click */
     transform: translateY(0);
 }
 
